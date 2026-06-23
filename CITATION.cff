@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SkullStrip25"
+message: "If you use this software, please cite our SPIE Medical Imaging 2026 paper."
+type: software
+
+authors:
+  - family-names: Thrastarson
+    given-names: Hjalti
+
+  - family-names: Ellingsen
+    given-names: Lotta
+
+repository-code: https://github.com/HjaltiThrastarson/skullStrip25
+
+preferred-citation:
+  type: conference-paper
+  title: "Efficient brain extraction of MRI scans with mild to moderate neuropathology"
+  authors:
+    - family-names: Thrastarson
+      given-names: Hjalti
+    - family-names: Ellingsen
+      given-names: Lotta
+  year: 2026
+  doi: 10.1117/12.3086643
+  publisher: SPIE
